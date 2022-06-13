@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the median", "Find the median.csproj", "{EC3471EF-C530-472B-BB41-FF7B38CBAAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3471EF-C530-472B-BB41-FF7B38CBAAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3471EF-C530-472B-BB41-FF7B38CBAAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3471EF-C530-472B-BB41-FF7B38CBAAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3471EF-C530-472B-BB41-FF7B38CBAAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8F3D52E-056B-40BB-9555-98B508E617B1}
+	EndGlobalSection
+EndGlobal
